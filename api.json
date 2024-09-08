@@ -1,6 +1,6 @@
 {
     "1": {
-        "name": "Chain Cube 2020",
+        "name": "Chain Cube 2048",
         "appToken": "d1690a07-3780-4068-810f-9b5bbf2931b2",
         "promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
         "timing": 20,
@@ -77,6 +77,6 @@
         "promoId": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
         "timing": 20,
         "attempts": 40,
-        "dailyLimit":1
+        "dailyLimit":4
     }
 }
